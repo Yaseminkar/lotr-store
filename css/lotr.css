@@ -1,0 +1,50 @@
+
+body { 
+    background-color: bisque;
+}
+/* ../ ile bir üst dizine çıkabiliriz. 
+Sonrasında erişmek istediğimiz dosyaya erişebiliriz. */
+.headerimage {
+    content: url("../images/bg.jpeg");
+    width: -webkit-fill-available;
+    height: 400px;
+    padding-left: 15%;
+    padding-right: 15%;
+} 
+
+nav{
+    text-align: center;
+}
+
+a{
+    color: rgb(16, 19, 11);
+    border:1px solid brown ;
+}
+h1 {
+  color: brown;
+  text-align: center;
+}
+h2{
+    color: brown;
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+p{
+    color:  rgb(41, 29, 41);
+    text-align: center;
+}
+article{
+    color:  rgb(41, 29, 41);
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+address{
+    text-align: center;
+}
