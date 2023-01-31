@@ -1,2 +1,2 @@
-# Patika-Dev-Css-homework1
+## Lotr Store
 ## https://app.patika.dev
